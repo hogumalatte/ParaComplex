@@ -1,0 +1,8 @@
+README.md
+setup.py
+ParaComplex.egg-info/PKG-INFO
+ParaComplex.egg-info/SOURCES.txt
+ParaComplex.egg-info/dependency_links.txt
+ParaComplex.egg-info/entry_points.txt
+ParaComplex.egg-info/requires.txt
+ParaComplex.egg-info/top_level.txt
